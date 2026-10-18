@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0-prototype",
+  "status": "CLI prototype; native GUI integration pending",
+  "single_nozzle": true,
+  "printer_connection": false,
+  "physical_validation": false
+}
