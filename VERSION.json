@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-prototype",
-  "status": "CLI prototype; native GUI integration pending",
-  "single_nozzle": true,
-  "printer_connection": false,
-  "physical_validation": false
+  "version": "0.2.0-preview",
+  "status": "native GUI preview",
+  "platform": "Windows x64",
+  "dll_sha256": "b6611b6559dadcd63057342628b22cf47937ea5fb7ff461edabb71ba11e27966",
+  "upstream": "fd28f6c1894a7fb09af2af0d8a8c935d98467e2d"
 }

@@ -1,0 +1,6 @@
+{
+  "url": "https://github.com/OrcaSlicer/OrcaSlicer.git",
+  "commit": "fd28f6c1894a7fb09af2af0d8a8c935d98467e2d",
+  "license": "AGPL-3.0",
+  "target": "Ordinary single-nozzle FFF Auto Slice; shared INDX-derived engine"
+}
